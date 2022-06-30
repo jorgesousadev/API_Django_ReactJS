@@ -2,7 +2,7 @@
 
 #### É uma API de música feita com Django que permite fazer upload de músicas, e tem um frontend feito com React JS para retornar os dados da API e tocar as músicas em um player de música. 
 
-#### Músicas para colocar no projeto: [Um repositório do GitHub que criei só para deixar armazenadas as músicas](https://github.com/1997jorge/Musicas_API_Django_ReactJS). Essas músicas gringas antigas foram escolhidas por nostalgia, optei por colocar só 133 músicas.
+#### Músicas para colocar no projeto: [Um repositório do GitHub que criei só para deixar armazenadas as músicas](https://github.com/ /Musicas_API_Django_ReactJS). Essas músicas gringas antigas foram escolhidas por nostalgia, optei por colocar só 133 músicas.
 
 ## Funcionalidades do projeto
 
@@ -158,7 +158,7 @@ python_version = "3.9"
 ## 🎲 Rodando o Front End 
 
 ###### 1ª Clone este repositório
-* git clone <https://github.com/1997jorge/API_Django_ReactJS.git>
+* git clone <https://github.com/ /API_Django_ReactJS.git>
 
 ###### 2ª Acesse a pasta do projeto no terminal/cmd
 * cd API_Django_ReactJS
