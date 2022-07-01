@@ -2,8 +2,6 @@
 
 #### É uma API de música feita com Django que permite fazer upload de músicas, e tem um frontend feito com React JS para retornar os dados da API e tocar as músicas em um player de música. 
 
-#### Músicas para colocar no projeto: [Um repositório do GitHub que criei só para deixar armazenadas as músicas](https://github.com/jorgesousadev/Musicas_API). Essas músicas gringas antigas foram escolhidas por nostalgia, optei por colocar só ? músicas.
-
 ## Funcionalidades do projeto
 
 ##### Backend(API)
